@@ -488,6 +488,11 @@ body {
   margin-top: 20px;
   color: #444;
 }
+@media (max-width: 499px) {
+  .contact .content-contact .social{
+        font-size: 13px;
+    }
+  }
 .contact .content-contact .social i {
   margin-left: 10px;
   color: var(--secondary-color);
