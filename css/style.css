@@ -490,6 +490,7 @@ body {
 }
 .contact .content-contact .social i {
   margin-left: 10px;
+  color: var(--secondary-color);
 }
 /* End About  */
 /* Start Footer */
